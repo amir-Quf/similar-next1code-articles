@@ -33,16 +33,16 @@ npx json-server -w db.json -p 4000
 ### home page :
 
 
-<img src='./src/assets/images/home-page-screen.png' alt='home page image'/>
+<img src='./public/images/home-page-screen.png' alt='home page image'/>
 
 ---
 
 ### add article page : 
 
-<img src='./src/assets/images/add-article-screen.png' alt='home page image'/>
+<img src='./public/images/add-article-screen.png' alt='home page image'/>
 
 ---
 
 ### about page : 
 
-<img src='./src/assets/images/about-page-screen.png' alt='home page image'/>
+<img src='./public/images/about-page-screen.png' alt='home page image'/>
