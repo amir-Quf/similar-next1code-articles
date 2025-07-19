@@ -2,7 +2,6 @@ import './ArticleItem.css'
 import { Card } from 'react-bootstrap'
 import { BiTimeFive } from "react-icons/bi";
 import { TiArrowLeftThick } from "react-icons/ti";
-import img from "../../assets/images/article1.webp"
 import { Link } from 'react-router-dom';
 const ArticleItem = (props) => {
   return (
