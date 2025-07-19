@@ -1,0 +1,48 @@
+.card-article-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.properties{
+    font-weight: 100;
+    color: #414141;
+}
+
+.article-card{
+    border: none !important;
+    box-shadow: 0 2px 5px 2px #ccc;
+    padding: 5px;
+    position: sticky !important;
+    top: 100px;
+}
+
+.article-card__image{
+    width: 90% !important;
+    margin: auto !important;
+    margin-top: -20px !important;
+    border-radius: 10px;
+}
+
+.btn-editArticle{
+    border-color: rgb(250, 150, 69) !important;
+    color:  rgb(250, 150, 69) !important;
+}
+
+.btn-editArticle:hover{
+    background-color: rgb(250, 150, 69) !important;
+    color: #fff !important;
+}
+
+.btn-deleteArticle{
+    border-color: rgb(250, 75, 69) !important;
+    color:  rgb(250, 75, 69) !important;
+}
+
+.btn-deleteArticle:hover{
+    background-image: linear-gradient(rgb(250, 75, 69), rgba(252, 90, 50, 0.85)) !important;
+    color: #fff !important;
+}
